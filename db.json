@@ -67,33 +67,6 @@
           "type": "TEXT"
         },
         {
-          "id": "z3uzxLpVKP8HN6fS1jQbK",
-          "src": "https://miro.medium.com/v2/resize:fit:1400/1*R1mfXLP9edcArZXwmGbGag.jpeg",
-          "title": "Figure 3 - The Rise of AngularJS",
-          "type": "IMAGE"
-        },
-        {
-          "id": "baEwQArHprDQeJqPzmIsr",
-          "title": "The Advent of React",
-          "paragraphs": [
-            {
-              "id": "QzgYwKIc9nbYFNe5zJRuS",
-              "text": "In 2013, Facebook introduced React, a revolutionary JavaScript library for building user interfaces. React's virtual DOM and component-based architecture brought unparalleled performance and reusability, making it a favorite among developers."
-            },
-            {
-              "id": "6qAYuK0UOw4gW9jP5zCwJ",
-              "text": "React's popularity soared, and it quickly became the cornerstone of modern web development, leading to the development of the vast React ecosystem."
-            }
-          ],
-          "type": "TEXT"
-        },
-        {
-          "id": "zmx1eOhumYj6PKF2VQzPe",
-          "src": "https://repository-images.githubusercontent.com/37153337/9d0a6780-394a-11eb-9fd1-6296a684b124",
-          "title": "Figure 4 - The Rise of React",
-          "type": "IMAGE"
-        },
-        {
           "id": "wJcLhk5BvEPk0gQzn9HBE",
           "title": "The Rise of Vue.js",
           "paragraphs": [
